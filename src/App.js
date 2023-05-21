@@ -7,27 +7,27 @@ function App() {
   const expenses = [
     {
       id : 'e1',
-      title : 'toilet paper',
+      title : 'Toilet Paper',
       amount : '48.2',
-      date : new Date(2022,7,14)
+      date : new Date(2022,6,14)
     },
     {
       id : 'e2',
-      title : 'car insurance',
+      title : 'Car Insurance',
       amount : '260.2',
       date : new Date(2022,7,15)
     },
     {
       id : 'e3',
-      title : 'new phone',
+      title : 'New Phone',
       amount : '195.2',
-      date : new Date(2022,1,16)
+      date : new Date(2022,0,16)
     },
     {
       id : 'e4',
-      title : 'new desk',
+      title : 'New Desk',
       amount : '94.2',
-      date : new Date(2022,7,19)
+      date : new Date(2022,5,19)
     },
   ]
 
